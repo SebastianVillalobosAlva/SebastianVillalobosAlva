@@ -9,4 +9,5 @@ Currently, I’m preparing to begin my Master’s in Data Science & Analytics at
 📍 Based in Washington, DC | 🌎 Originally from Mexico  
 
 ---
-✨ Always curious, always learning.
+
+✨ Always curious, always learning — and when I’m not coding, you’ll probably find me watching Formula 1, planning my next trip, or digging into music playlists way too long for one sitting.
