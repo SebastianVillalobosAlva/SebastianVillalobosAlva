@@ -9,9 +9,11 @@ Data Tools: dbt, Power BI, Tableau, Looker Studio
 
 📍 Based in Washington, DC | 🌎 Originally from Mexico
 
-✨ Always curious, always learning — and when I'm not coding, you'll probably find me watching Formula 1, planning my next trip, or digging into music playlists way too long for one sitting.
+✨ Always curious, always learning and when I'm not coding, you'll probably find me watching Formula 1, planning my next trip, or digging into music playlists way too long for one sitting.
 📫 Connect with me
 
 GitHub: github.com/SebastianVillalobosAlva
+
 LinkedIn: linkedin.com/in/sebastian-villalobos-alva
+
 Email: s.villalobos.alva@gmail.com
