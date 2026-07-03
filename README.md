@@ -12,6 +12,8 @@ Data Tools: dbt, Power BI, Tableau, Looker Studio
 ✨ Always curious, always learning and when I'm not coding, you'll probably find me watching Formula 1, planning my next trip, or digging into music playlists way too long for one sitting.
 📫 Connect with me
 
+Portfolio: [https://sebastianvillalobosalva.github.io/#top](https://sebastianvillalobosalva.github.io/#top)
+
 GitHub: [github.com/SebastianVillalobosAlva](https://github.com/SebastianVillalobosAlva)
 
 LinkedIn: [linkedin.com/in/sebastian-villalobos-alva](https://www.linkedin.com/in/sebastian-villalobos-alva/)
