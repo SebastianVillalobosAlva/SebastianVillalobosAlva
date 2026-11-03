@@ -1,21 +1,19 @@
-Hi there, I'm Sebastian 👋
-I'm a Data Science & Analytics Engineer with experience building machine learning models, ETL pipelines, and data visualization dashboards. I enjoy solving complex problems, optimizing processes, and applying data science to create real-world impact.
-Currently, I've just started my Master's in Data Science & Analytics at Georgetown University in Fall 2025, where I'll focus on advanced analytics, machine learning, and AI applications in business and technology.
-🗣️ Interests: Machine Learning, Data Engineering, AI Research
-⚡ Skills:
+### Sebastian Villalobos
+AI safety & interpretability · M.S. Data Science & Analytics, Georgetown (May 2027)
 
-Languages: Python, SQL (Snowflake/Redshift), C, MATLAB
-Data Tools: dbt, Power BI, Tableau, Looker Studio
+I study whether behavior installed in a model's weights works the same way as behavior installed in its activations, and whether you can tell from the inside. Before Georgetown I spent about four years at Scale AI and Welo Data building LLM evaluation frameworks (RLHF evals for NVIDIA Nemotron), quality-linting systems, and production ML pipelines.
 
-📍 Based in Washington, DC | 🌎 Originally from Mexico
+**Start here**
+- [Stoic-Steering](https://github.com/SebastianVillalobosAlva/Stoic-Steering): CAA vs. LoRA on Llama-3.2-3B. Under matched decoding, only LoRA moved decisions at the tested strength. An earlier positive CAA result turned out to be a decoding artifact, which I caught and documented.
+- [ModelLens](https://github.com/SebastianVillalobosAlva/ModelLens): architecture-agnostic PyTorch interpretability toolkit (transformers, CNNs, RNNs, SAEs) with an MCP server.
 
-✨ Always curious, always learning and when I'm not coding, you'll probably find me watching Formula 1, planning my next trip, or digging into music playlists way too long for one sitting.
-📫 Connect with me
+**Recent**
+- Co-author, *Global Security Blind Spots: Translation as a Safety Bypass in Low-Resource Languages*, NeurIPS 2026 Workshop on Foundations of Language Model Security
+- Research assistant, Georgetown McDonough (LLM uncertainty quantification)
+- TA for seven Georgetown courses in SQL, ML, and applied AI
 
-Portfolio: [https://sebastianvillalobosalva.github.io/#top](https://sebastianvillalobosalva.github.io/#top)
+**Stack:** Python · PyTorch · Hugging Face · SQL (Redshift, Snowflake) · dbt · MCP
 
-GitHub: [github.com/SebastianVillalobosAlva](https://github.com/SebastianVillalobosAlva)
+📍 Washington, DC · originally from Mexico City. Off the clock: Formula 1, trip planning, overlong playlists.
 
-LinkedIn: [linkedin.com/in/sebastian-villalobos-alva](https://www.linkedin.com/in/sebastian-villalobos-alva/)
-
-Email: s.villalobos.alva@gmail.com
+[Portfolio](https://sebastianvillalobosalva.github.io/) · [LinkedIn](https://www.linkedin.com/in/sebastian-villalobos-alva/) · s.villalobos.alva@gmail.com
